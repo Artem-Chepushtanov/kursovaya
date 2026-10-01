@@ -1,0 +1,59 @@
+# C++ — результаты компиляции
+*.obj
+*.exe
+*.out
+*.app
+*.o
+
+# C++ — библиотеки
+*.a
+*.lib
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# C++ — отладка
+*.pdb
+*.idb
+*.ilk
+
+# Java — результаты компиляции
+*.class
+*.jar
+*.war
+*.ear
+
+# Java — папки сборки
+target/
+out/
+bin/
+
+# C# — результаты компиляции
+*.mdb
+*.cache
+*.suo
+
+# C# — папки сборки
+obj/
+Debug/
+Release/
+
+# Папки сборки (общие)
+build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Gradle / Maven
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
